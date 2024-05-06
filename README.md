@@ -5,6 +5,10 @@
 ### Requirements
 
 ```sh
+ pip install -r requirements.txt
+```
+## OR
+```sh
 pip install opencv-python numpy matplotlib mediapipe scikit-learn tensorflow fastapi
 ```
 
