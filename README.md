@@ -12,6 +12,16 @@
 pip install opencv-python numpy matplotlib mediapipe scikit-learn tensorflow fastapi
 ```
 
+## Mobile App
+```sh
+cd mobile-app
+npm install
+npm start //expo start
+npm android //expo start --android
+npm ios //expo start --ios
+npm web //expo start --web
+```
+
 ### Predict API
 
 ```sh
